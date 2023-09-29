@@ -1,0 +1,9 @@
+{
+  "appId": "it.anak.budiman",
+  "appName": "Budiman",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://100.112.92.93:9500"
+  }
+}
